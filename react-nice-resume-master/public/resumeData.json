@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name":"Ashish Kumar",
+    "description":"I am a pre-final year student at Institute of Engineering and Rural Technology, Allahabad.",
+    "image":"profilepic.jpg",
+    "bio":"I am a pre-final year student at Institute of Engineering and Rural Technology, Allahabad.My major is Computer Science and Engineering and I do Problem Solving (Data Structures and Algorithms) for fun.I currently practise at Hackerrank. I have solved over several problems on Hackerrank.I am well versed with Computer Science fundamentals like OOPS, Operating Systems, Database Management Systems, Computer Networks and also have keen interest in High Level System Design.I have built few projects on Android using Java, web development in java , and currently exploring Al & Deep Learning concept using Python.I am interested and open to interview as an intern in Software Engineering domain.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "ashishbundela123@gmail.com",
+    "phone": "9721224428",
+    "github":"",
+    "project":"",
+    "address":{
+      "street":"Civil Line",
+      "city":"Prayagraj",
+      "state":"Uttar Pradesh",
+      "zip": "211002"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1u7I3pXeunF6zOQSUNhKiDCICS-kvwtAu/view",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/home.php",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ashish-kumar-8014a41b6",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://www.linkedin.com/in/ashish-kumar-8014a41b6",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Institute of Engineering and Rural Technology Prayagraj",
+        "degree":"Bachelor of Technology",
+        "graduated":"2023",
+        "description":""
+      },
+      {
+        "school":"Govt Polytechnic College Talbehat Lalitpur ",
+        "degree":"Diploma ( Computer science and engineering )",
+        "graduated":"2020",
+        "description":""
+      },
+      {
+        "school":"S M S V M I C ORAI(JALAUN) ",
+        "degree":"12th",
+        "graduated":"2017",
+        "description":""
+      },
+      {
+      "school":"S M S V M I C ORAI(JALAUN) ",
+      "degree":"10th",
+      "graduated":"2015",
+      "description":""
+    }
+    ],
+    "work":[
+      {
+        "company":"VERZEO",
+        "title":"Intern",
+        "years":" April 2022 - May 2022",
+        "description":"- Creating a custom yolo v5 model to detect if person is wearing mask or not."
+      },
+      {
+        "company":"Mecatredz technology pvt ltd Lucknow",
+        "title":"Intern",
+        "years":" May 2019 - August 2019",
+        "description":"2 month Vocational training in java with html , css, javascript , mysql , ajax.This project is related to swach bharat abhiyan portal ."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Data Structure and Algorithms",
+        "level":"60%"
+      },
+      {
+        "name":"Artificial Intelligence",
+        "level":"50%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      
+      {
+        "name":"JAVASCRIPT",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+      
+    ]
+  }
+}
